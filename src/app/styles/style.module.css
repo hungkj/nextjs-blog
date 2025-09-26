@@ -1,0 +1,27 @@
+.footer {
+    text-align: center;
+    padding: 2px;
+    background-color: rgb(164, 162, 162);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.AddButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.inputField {
+    width: 100%;
+}
