@@ -1,4 +1,5 @@
 ## Các bước cần làm sau khi clone source code:
+### Clone backend: https://github.com/harypham/backend-fake-json
 ### 1. Cài đặt thư viện: npm i
 ### 2. Chạy project: npm run dev   
 
